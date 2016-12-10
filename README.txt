@@ -1,0 +1,1 @@
+Ce projet consiste à développer une page web décrivant trois projets collaboratifs auxquels j'ai participé en tant que responsable du service de documentation externe des Orange Labs

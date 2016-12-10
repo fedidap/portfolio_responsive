@@ -1,0 +1,4 @@
+Bref descriptif des projets collaboratifs :
+Mise à disposition pour les ingénieurs et chercheurs des Orange Labs d'une bibliothèque numérique en ligne d'e-books
+Conception d'une maquette de site intranet documentaire destiné aux ingénieurs et chercheurs des Orange Labs
+Informatisation de la bibliothèque physique des Orange Labs au moyen du logiciel bibliothéconomique PMC
